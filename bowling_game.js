@@ -1,5 +1,12 @@
 class BowlingGame {
+  constructor() {
+  }
 
+  roll(pin) {
+  }
+
+  get_score() {
+  }
 }
 
 module.exports = BowlingGame;
