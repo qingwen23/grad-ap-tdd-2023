@@ -6,6 +6,7 @@ Implementation of the codes are intentionally left out, and is up to the coder's
 
 ## Install pre-requisites
 You should already have installed `homebrew` (not used), `npm`, `node`, `fnm` (or other Node version manager).
+
 Run `npm install` in this repository's root
 
 ## Run test
